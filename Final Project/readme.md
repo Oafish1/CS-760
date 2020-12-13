@@ -4,4 +4,4 @@
 <br>
 <b>Node.m</b>: Tree class.  'Node' refers to the fact that trees are stored with a reference to the head node
 <br>
-<b>Forest.m</b>: Random/Elimination Forest classifier and tests
+<b>Forest.m</b>: Random/Elimination Forest classifier and tests.  An error is thrown if thresholds are set too high.  Try running again or lowering
